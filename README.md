@@ -93,7 +93,7 @@ I build end-to-end solutions: from clean data pipelines and predictive models to
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Publish 3+ complete data analysis projects with Power BI dashboards
 - [ ] Build and deploy at least one ML model in production
