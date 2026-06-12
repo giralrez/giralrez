@@ -62,7 +62,6 @@ I build end-to-end solutions: from clean data pipelines and predictive models to
 ### Data Engineering & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-FF9900?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,14 +72,33 @@ I build end-to-end solutions: from clean data pipelines and predictive models to
 
 ## 📂 Portfolio Projects
 
-> Projects are actively being uploaded. Check back soon!
+### 📊 Data Analytics & Business Intelligence
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| 🔍 [Retail Sales Analysis](./retail-sales-analysis) | Full data analysis pipeline: cleaning, EDA, and Power BI dashboard | Python · Pandas · Power BI | 🟡 Uploading soon |
-| 🎰 [Lottery Number Predictor](./lottery-predictor) | ML model to detect statistical patterns in lottery draws | Python · Scikit-Learn · XGBoost | 🟡 Uploading soon |
-| 📱 Mobile App | Cross-platform mobile application | _Details coming soon_ | 🟡 Uploading soon |
-| 🤖 Automation Suite | Process automation scripts | Python | 🟡 Uploading soon |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🚦 [Road Safety Analytics — Bogotá 2020–2024](https://github.com/giralrez/colombia-traffic-accidents-analysis-2020-2024) | End-to-end analysis of 5 years of traffic accident data. Multi-source cleaning pipeline, EDA, and interactive Power BI dashboard using open government data. | Python · Pandas · Power BI · Jupyter |
+
+<!--
+| 🛒 [Retail Sales Analysis](./retail-sales-analysis) | Sales data cleaning, EDA, and Power BI dashboard for retail decision-making | Python · Pandas · Power BI |
+-->
+
+### 🤖 Machine Learning & Predictive Analytics
+
+<!--
+| 🎰 [Lottery Number Predictor](./lottery-predictor) | Statistical pattern detection in lottery draws using ML models | Python · Scikit-Learn · XGBoost |
+| 📉 [Customer Churn Prediction](./churn-prediction) | Classification model to predict customer churn with feature engineering | Python · Scikit-Learn · Pandas |
+-->
+
+> 🚧 ML projects coming soon — currently preparing repositories
+
+### 📱 Software Engineering & Mobile
+
+<!--
+| 📱 [Mobile App](./mobile-app) | Cross-platform mobile application | Details coming soon |
+| ⚙️ [Automation Suite](./automation-suite) | Process automation scripts and bots | Python |
+-->
+
+> 🚧 Software projects coming soon — currently preparing repositories
 
 ---
 
@@ -95,7 +113,7 @@ I build end-to-end solutions: from clean data pipelines and predictive models to
 
 ## 🎯 2026 Goals
 
-- [ ] Publish 3+ complete data analysis projects with Power BI dashboards
+- [x] Publish first complete data analysis project with Power BI dashboard ✅
 - [ ] Build and deploy at least one ML model in production
 - [ ] Complete a Data Engineering pipeline project (ETL + PostgreSQL)
 - [ ] Get certified in cloud (AWS or GCP fundamentals)
@@ -106,19 +124,3 @@ I build end-to-end solutions: from clean data pipelines and predictive models to
 <p align="center">
   <i>Open to data, ML, and software engineering opportunities — let's connect!</i>
 </p>
-
-
-<!--
-**giralrez/giralrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
